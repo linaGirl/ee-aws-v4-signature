@@ -1,0 +1,19 @@
+{
+      "name":           "ee-aws-v4-signature"
+    , "description":    "simple & fast dynamodb access"
+    , "version":        "0.1.0"
+    , "homepage":       "https://github.com/eventEmitter/ee-aws-v4-signature"
+    , "author":         "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
+    , "repository": {
+        "url":          "https://github.com/eventEmitter/ee-aws-v4-signature"
+    }
+    , "engines": {
+        "node":         "*"
+    }
+    , "bugs": {
+        "url":          "https://github.com/eventEmitter/ee-aws-v4-signature/issues"
+    }
+    , "dependencies": {}
+    , "devDependencies": {}
+    , "optionalDependencies": {}
+}
