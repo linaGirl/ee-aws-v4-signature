@@ -1,6 +1,6 @@
 {
       "name":           "ee-aws-v4-signature"
-    , "description":    "simple & fast dynamodb access"
+    , "description":    "amazon aws v4 signature generator for their rest interfaces of several of theri services"
     , "version":        "0.1.0"
     , "homepage":       "https://github.com/eventEmitter/ee-aws-v4-signature"
     , "author":         "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 

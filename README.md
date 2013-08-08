@@ -32,9 +32,9 @@ npm install ee-aws-v4-signature
 		, key: 		"AKithisisverywhatever"
 		, secret: 	"wJalrXUtnFEMI/K7MDENG+bPxRfiCYEXAMPLEKEY"
 		, region: 	"us-east-1"
-		, version: 	"20120812"
 		, method: 	"post"
 		, service: 	"iam"
+		, version: 	"20120812"
 		, payload: 	"Action=ListUsers&Version=2010-05-08"
 		, headers: {
 			  "Content-type": 	"application/x-www-form-urlencoded; charset=utf-8"
