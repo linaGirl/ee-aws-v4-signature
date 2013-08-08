@@ -1,7 +1,7 @@
 {
       "name":           "ee-aws-v4-signature"
     , "description":    "amazon aws v4 signature generator for their rest interfaces of several of theri services"
-    , "version":        "0.1.0"
+    , "version":        "0.1.1"
     , "homepage":       "https://github.com/eventEmitter/ee-aws-v4-signature"
     , "author":         "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "repository": {
