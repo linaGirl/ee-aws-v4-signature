@@ -1,5 +1,7 @@
 #ee-aws-v4-signature
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-aws-v4-signature.svg)](https://greenkeeper.io/)
+
 sign REST request for the following services
 
 - Amazon CloudSearch
